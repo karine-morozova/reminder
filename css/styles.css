@@ -1,3 +1,4 @@
-.text {
-    font-family: 'Tangerine', cursive;
+:root {
+    --primary-color: black;
+    --accent-color: blue;
 }
